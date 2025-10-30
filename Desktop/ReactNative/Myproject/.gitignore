@@ -1,0 +1,11 @@
+node_modules/
+android/
+ios/
+.vscode/
+.expo/
+.expo-shared/
+.DS_Store
+build/
+dist/
+npm-debug.log
+yarn-error.log
